@@ -47,6 +47,5 @@ I’m a Computer Engineering student with hands-on experience in building web ap
 
 - 📧 Email: pavanchavan542004@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/pavan-chavan/  
-- 🧑‍💻 GitHub: https://github.com/sonar-vaibhav  
 
 ---
